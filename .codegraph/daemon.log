@@ -1,0 +1,25 @@
+[CodeGraph daemon] Listening on /Users/striveonger/development/workspace/enterprises/tmp/index-tts/.codegraph/daemon.sock (pid 72956, v0.9.9). Idle timeout 300000ms.
+[CodeGraph MCP] File watcher active — graph will auto-sync on changes
+[CodeGraph MCP] Auto-synced 2 file(s) in 116ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 49ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 44ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 97ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 86ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 79ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 78ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 103ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 109ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 57ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 102ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 107ms
+[CodeGraph daemon] Shutting down (idle timeout; clients=0).
+[CodeGraph daemon] Listening on /Users/striveonger/development/workspace/enterprises/tmp/index-tts/.codegraph/daemon.sock (pid 63866, v0.9.9). Idle timeout 300000ms.
+[CodeGraph MCP] File watcher active — graph will auto-sync on changes
+[CodeGraph MCP] Auto-synced 1 file(s) in 178ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 83ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 80ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 86ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 97ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 84ms
+[CodeGraph MCP] Auto-synced 1 file(s) in 78ms
+[CodeGraph daemon] Shutting down (idle timeout; clients=0).
