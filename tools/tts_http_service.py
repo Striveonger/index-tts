@@ -16,7 +16,7 @@ from indextts.infer_v2 import IndexTTS2
 
 
 # --- 环境变量配置 ---
-DEFAULT_SPK_AUDIO = os.environ.get("TTS_SPK_AUDIO", "examples/voice_template.wav")
+DEFAULT_SPK_AUDIO = os.environ.get("TTS_SPK_AUDIO", "examples/voice_template_02.wav")
 MODEL_CFG = os.environ.get("INDEX_TTS_CFG", "checkpoints/config.yaml")
 MODEL_DIR = os.environ.get("INDEX_TTS_MODEL_DIR", "checkpoints")
 HOST = os.environ.get("TTS_HOST", "0.0.0.0")
